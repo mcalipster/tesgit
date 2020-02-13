@@ -13,3 +13,10 @@ print(e)
 - CHECKOUT commit => read_only
 - REVERT commit => modifikasi bahkan bisa menghapus beberapa commit yg lalu
 - RESET commit => mereset commit ke poin yg ditentukan
+
+
+uewhfughergerbuer
+GeneratorExitgbtrehtrhrthbrt
+t
+btrbtr
+btrgbtrgsbeahae
